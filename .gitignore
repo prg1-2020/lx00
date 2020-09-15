@@ -1,0 +1,6 @@
+/.bloop/
+/.metals/
+/.sbtopts
+/.vscode/
+/project/
+/target/
