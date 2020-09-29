@@ -1,0 +1,10 @@
+2020.09.29 22:36:56 INFO  started: Metals version 0.9.4 in workspace '/Users/youyoucong/Desktop/lx00/poton' for client vscode.
+2020.09.29 22:36:57 INFO  time: initialize in 0.84s
+2020.09.29 22:36:58 WARN  no build tool detected in workspace '/Users/youyoucong/Desktop/lx00/poton'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.09.29 22:37:00 INFO  no build target: using presentation compiler with only scala-library
+2020.09.29 22:37:00 WARN  no build target for: /Users/youyoucong/Desktop/lx00/poton/poton.scala
+9 29, 2020 10:37:00 午後 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 2
+2020.09.29 22:37:04 WARN  no build target for: /Users/youyoucong/Desktop/lx00/poton/poton.scala
+9 29, 2020 10:37:36 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification

@@ -38,7 +38,7 @@ case class PotonWorld(centerX: Int, centerY: Int) extends World() {
   }
 
   def tick(): World = {
-    PotonWorld(centerX, min(centerY + 5, MaxY))
+    PotonWorld(centerX, min(centerY + 10, MaxY))
   }
 }
 
