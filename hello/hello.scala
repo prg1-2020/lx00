@@ -4,6 +4,6 @@
 
 object Hello {
   def main(args: Array[String]) : Unit = {
-    println("プログラミング第一へようこそ！！")
+    println("プログラミング第一へようこそ。")
   }
 }
