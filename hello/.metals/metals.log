@@ -1,0 +1,10 @@
+2020.10.06 15:16:01 INFO  started: Metals version 0.9.4 in workspace '/Users/kyosuke.d/classes/prg01/lx00/hello' for client vscode.
+2020.10.06 15:16:03 INFO  time: initialize in 1.27s
+2020.10.06 15:16:03 WARN  no build tool detected in workspace '/Users/kyosuke.d/classes/prg01/lx00/hello'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.10.06 15:16:08 INFO  no build target: using presentation compiler with only scala-library
+2020.10.06 15:16:08 WARN  no build target for: /Users/kyosuke.d/classes/prg01/lx00/hello/hello.scala
+10月 06, 2020 3:17:38 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+10月 06, 2020 3:21:40 午後 org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+情報: Unsupported notification method: $/setTraceNotification
+2020.10.06 15:21:48 INFO  shutting down Metals
