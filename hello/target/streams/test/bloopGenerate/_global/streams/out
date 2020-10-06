@@ -1,0 +1,4 @@
+[debug] [hello-test] Classpath dependencies List()
+[debug] [hello-test] Dependencies from configurations List(hello)
+[debug] Bloop wrote the configuration of project 'hello-test' to '/Users/kawamurayuya/Desktop/授業/プログラミング第一/lx00/.bloop/hello-test.json'
+[success] Generated .bloop/hello-test.json
