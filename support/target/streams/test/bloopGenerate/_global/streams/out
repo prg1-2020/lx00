@@ -1,0 +1,4 @@
+[debug] [support-test] Classpath dependencies List()
+[debug] [support-test] Dependencies from configurations List(support)
+[debug] Bloop wrote the configuration of project 'support-test' to '/Users/ira/Downloads/3Q/プログラミング第一/lx00/.bloop/support-test.json'
+[success] Generated .bloop/support-test.json

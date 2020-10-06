@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/draw/StableWorld.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/geometry/Posn.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/draw/World.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/canvas.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/draw/Canvas.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Magenta.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Yellow.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/colors.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Black.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Green.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/DarkGray.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/LightGray.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Orange.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/idraw/Canvas.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Blue.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/sgeometry.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/IColor.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Pink.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/world.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/idraw/World.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Red.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/Cyan.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/AbstractColor.java, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/java/colors/White.java)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set(/Users/ira/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set(/Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/world.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/sgeometry.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/canvas.scala, /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/src/colors.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Scala sources and 20 Java sources to /Users/ira/Downloads/3Q/プログラミング第一/lx00/support/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 24817757 for Scala compiler version 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/ira/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/ira/Downloads/3Q/プログラミング第一/lx00/support/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 1.845499382 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@865b7fb directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 0.593403276 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.309811833 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 0.909650353 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
