@@ -1,0 +1,58 @@
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll sources are invalidated.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 4 Scala sources and 20 Java sources to /Users/kawamurayuya/Desktop/授業/プログラミング第一/lx00/support/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0minfo[0m] [0m[0mNon-compiled module 'compiler-bridge_2.13' for Scala 2.13.3. Compiling...[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreating plain compiler interface for 2.13.3.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  > Arguments: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	-nowarn[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-d[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_c0662520[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-bridge_2.13/1.3.5/compiler-bridge_2.13-1.3.5-sources.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.3/scala-compiler-2.13.3.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.3/scala-reflect-2.13.3.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.15.0/jline-3.15.0.jar:/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/API.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Analyzer.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/CallbackGlobal.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/ClassName.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Command.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Compat.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/CompilerInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/ConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/DelegatingReporter.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Dependency.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/ExtractAPI.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/ExtractUsedNames.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/GlobalHelpers.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/InteractiveConsoleFactory.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/InteractiveConsoleHelper.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/InteractiveConsoleInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/InteractiveConsoleResponse.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/JarUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/JavaUtils.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/LocalToNonLocalClass.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/LocateClassFile.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Log.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/Message.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/var/folders/7_/yslkdtfj5h3dvk5kmq20b6780000gn/T/sbt_b1e7e2ff/xsbt/ScaladocInterface.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m      [0m
+[0m[[0m[0minfo[0m] [0m[0m  Compilation completed in 10.237s.[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.3.5:compile for Scala 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 2965d9f2 for Scala compiler version 2.13.3[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-feature[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-unchecked[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-deprecation[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/kawamurayuya/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.3/scala-library-2.13.3.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/kawamurayuya/Desktop/授業/プログラミング第一/lx00/support/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 15.171948704 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mAttempting to call com.sun.tools.javac.api.JavacTool@69377c3a directly...[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation took 3.107638014 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava analysis took 0.929106096 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mJava compilation + analysis took 4.058981986 s[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone compiling.[0m
