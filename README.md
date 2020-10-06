@@ -8,7 +8,7 @@
 
 `hello.scala` を実行し、得られた出力を "hello.scala の出力結果：" に続けて書きましょう。このプログラムの `sbt` からの `hello.scala` の実行方法は `hello/run` です。
 
-hello.scala の出力結果：プログラミング第一へようこそ！poton
+hello.scala の出力結果：プログラミング第一へようこそ！
 
 ## 課題２
 
