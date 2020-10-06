@@ -3,4 +3,4 @@
 /.sbtopts
 /.vscode/
 /project/
-/target/
+target/
