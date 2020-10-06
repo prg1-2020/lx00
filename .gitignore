@@ -3,4 +3,7 @@
 /.sbtopts
 /.vscode/
 /project/
+/support/
 /target/
+/hello/target/
+/poton/target
