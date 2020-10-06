@@ -9,7 +9,7 @@
 `hello.scala` を実行し、得られた出力を "hello.scala の出力結果：" に続けて書きましょう。このプログラムの `sbt` からの `hello.scala` の実行方法は `hello/run` です。
 
 hello.scala の出力結果：Welcome to prg1-2020
-![Gyazo った画像](https://gyazo.com/4c1edcb6731d5849e0ea39bda2a73091)
+![Gyazo った画像](https://gyazo.com/1cea8de53841bdced83bf2bf36fcfebf/raw)
 
 ## 課題２
 
@@ -23,4 +23,4 @@ hello.scala の出力結果：Welcome to prg1-2020
 ここで、"シェア" から画像の URL を取得します。
 そのうえで、以下の行の URL を自分の画像の URL に置き換え、その直後に `/raw` と書いてください。
 
-![Gyazo った画像](https://gyazo.com/7cf8be3d258af493d0349c743b299a69)
+![Gyazo った画像](https://gyazo.com/b8f3f8c2018a61c5e39db7ff74ce4839/raw)
