@@ -22,4 +22,4 @@ hello.scala の出力結果：プログラミング第一へようこそ！
 ここで、"シェア" から画像の URL を取得します。
 そのうえで、以下の行の URL を自分の画像の URL に置き換え、その直後に `/raw` と書いてください。
 
-![Gyazo った画像]（https://i.gyazo.com/8f8d38af43da11b32b6668a173d6dd46.png/raw）
+![Gyazo った画像](https://i.gyazo.com/8f8d38af43da11b32b6668a173d6dd46.png/raw)
