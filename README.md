@@ -1,4 +1,4 @@
-# 演習の練習
+hello# 演習の練習
 
 課題１・２ともに、この `README.md` を編集することで解答してください。
 
@@ -8,7 +8,7 @@
 
 `hello.scala` を実行し、得られた出力を "hello.scala の出力結果：" に続けて書きましょう。このプログラムの `sbt` からの `hello.scala` の実行方法は `hello/run` です。
 
-hello.scala の出力結果：
+hello.scala の出力結果：プログラミング第一へようこそ！
 
 ## 課題２
 
@@ -22,4 +22,4 @@ hello.scala の出力結果：
 ここで、"シェア" から画像の URL を取得します。
 そのうえで、以下の行の URL を自分の画像の URL に置き換え、その直後に `/raw` と書いてください。
 
-![Gyazo った画像](https://gyazo.com/6c8536699531276ceecbe9b99aa5316d/raw)
+![Gyazo った画像](https://i.gyazo.com/1c0f0d41d74186577e04b5306e3f7e6f.png/raw)
