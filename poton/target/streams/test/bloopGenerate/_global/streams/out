@@ -1,0 +1,4 @@
+[debug] [poton-test] Classpath dependencies List(support)
+[debug] [poton-test] Dependencies from configurations List(poton)
+[debug] Bloop wrote the configuration of project 'poton-test' to '/Users/yokoyamaakiradai/classes/tmp/lx00/.bloop/poton-test.json'
+[success] Generated .bloop/poton-test.json
