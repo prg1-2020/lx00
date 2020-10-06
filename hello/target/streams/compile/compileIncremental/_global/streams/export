@@ -1,0 +1,1 @@
+scalac -bootclasspath /Users/wakitakouhei/.sbt/boot/scala-2.12.10/lib/scala-library.jar -classpath /Users/wakitakouhei/classes/prog1/lx00/hello/target/scala-2.12/classes /Users/wakitakouhei/classes/prog1/lx00/hello/hello.scala

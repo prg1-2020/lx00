@@ -1,0 +1,70 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:5:8: not found: object sgeometry[0m
+[0m[[0m[31merror[0m] [0m[0mimport sgeometry.Pos[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:6:8: not found: object sdraw[0m
+[0m[[0m[31merror[0m] [0m[0mimport sdraw.{World, Blue, White, Green}[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:8:59: not found: type World[0m
+[0m[[0m[31merror[0m] [0m[0mcase class PotonWorld(centerX: Int, centerY: Int) extends World() {[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:19:5: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(0, 0), canvas.width, canvas.height, White) &&[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:19:21: not found: value Pos[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(0, 0), canvas.width, canvas.height, White) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:19:32: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(0, 0), canvas.width, canvas.height, White) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:19:46: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(0, 0), canvas.width, canvas.height, White) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:19:61: not found: value White[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(0, 0), canvas.width, canvas.height, White) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:21:5: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(10, MaxY - 10), HallX - 10, 20, Green) &&[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:21:21: not found: value Pos[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(10, MaxY - 10), HallX - 10, 20, Green) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:21:57: not found: value Green[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(10, MaxY - 10), HallX - 10, 20, Green) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                                                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:22:5: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(HallX + (BallRadius * 2 + 10), MaxY - 10),[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:22:21: not found: value Pos[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawRect(Pos(HallX + (BallRadius * 2 + 10), MaxY - 10),[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:23:7: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m      canvas.width - (HallX + (BallRadius * 2 + 10)), 20, Green) &&[0m
+[0m[[0m[31merror[0m] [0m[0m      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:23:59: not found: value Green[0m
+[0m[[0m[31merror[0m] [0m[0m      canvas.width - (HallX + (BallRadius * 2 + 10)), 20, Green) &&[0m
+[0m[[0m[31merror[0m] [0m[0m                                                          ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:25:5: not found: value canvas[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawDisk(Pos(centerX, centerY), 50, Blue)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:25:21: not found: value Pos[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawDisk(Pos(centerX, centerY), 50, Blue)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:25:48: not found: value Blue[0m
+[0m[[0m[31merror[0m] [0m[0m    canvas.drawDisk(Pos(centerX, centerY), 50, Blue)[0m
+[0m[[0m[31merror[0m] [0m[0m                                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:28:22: not found: type World[0m
+[0m[[0m[31merror[0m] [0m[0m  def click(p: Pos): World = this[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:28:16: not found: type Pos[0m
+[0m[[0m[31merror[0m] [0m[0m  def click(p: Pos): World = this[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:30:30: not found: type World[0m
+[0m[[0m[31merror[0m] [0m[0m  def keyEvent(key: String): World = {[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:40:15: not found: type World[0m
+[0m[[0m[31merror[0m] [0m[0m  def tick(): World = {[0m
+[0m[[0m[31merror[0m] [0m[0m              ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/wakitakouhei/classes/prog1/lx00/poton/poton.scala:52:9: value bigBang is not a member of lx03.PotonWorld[0m
+[0m[[0m[31merror[0m] [0m[0m  world.bigBang(WorldWidth, WorldHeight, 0.1)[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0m23 errors found[0m
