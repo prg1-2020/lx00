@@ -1,0 +1,4 @@
+[debug] [hello-test] Classpath dependencies List()
+[debug] [hello-test] Dependencies from configurations List(hello)
+[debug] Bloop wrote the configuration of project 'hello-test' to 'C:\Users\LKLB86\Documents\lx00\.bloop\hello-test.json'
+[success] Generated .bloop\hello-test.json
