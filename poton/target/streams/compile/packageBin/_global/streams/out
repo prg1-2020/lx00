@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\poton_2.13-0.1-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03\PotonApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03\PotonApp$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03\PotonApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03\PotonApp$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03\PotonApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03\PotonApp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03\PotonWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03\PotonWorld$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	lx03\PotonWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\尾高 靖朗\Documents\code.scala\lx00\poton\target\scala-2.13\classes\lx03\PotonWorld.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
